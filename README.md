@@ -7,8 +7,8 @@ Tenho interesses em desenvolver projetos, aprender linguagens de programação e
 Dê uma olhada nos projetos que desenvolvi, estão bem legais =}
 
 <div align="center">
-  <a href="https://github.com/OctavioBarros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OctavioBarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://beacons.ai/OctavioBarros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OctavioBarros&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBarros&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
